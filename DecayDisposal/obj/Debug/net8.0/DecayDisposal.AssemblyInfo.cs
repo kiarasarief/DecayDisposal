@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecayDisposal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3508552102adcffadca21fa0d8cce3caf150d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d28ca2b8e006a76d0291b9e8ab3dc97110f54996")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecayDisposal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecayDisposal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
