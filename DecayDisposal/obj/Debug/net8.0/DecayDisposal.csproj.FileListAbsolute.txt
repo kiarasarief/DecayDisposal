@@ -1,0 +1,15 @@
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\bin\Debug\net8.0\DecayDisposal.exe
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\bin\Debug\net8.0\DecayDisposal.deps.json
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\bin\Debug\net8.0\DecayDisposal.runtimeconfig.json
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\bin\Debug\net8.0\DecayDisposal.dll
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\bin\Debug\net8.0\DecayDisposal.pdb
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.AssemblyInfoInputs.cache
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.AssemblyInfo.cs
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.csproj.CoreCompileInputs.cache
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.sourcelink.json
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.dll
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\refint\DecayDisposal.dll
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.pdb
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\DecayDisposal.genruntimeconfig.cache
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\TugasAkhir\oopperkuliahan\DecayDisposal\obj\Debug\net8.0\ref\DecayDisposal.dll
