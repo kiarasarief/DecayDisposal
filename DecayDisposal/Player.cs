@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class Player
 {
     public int Health { get; set; }
-    private IPlayerStrategy _strategy;
+    private IPlayerStrategy? _strategy;
     public List<Potion> Inventory { get; private set; }
     public int Level { get; private set; }
     public int Exp { get; private set; }
@@ -37,8 +37,7 @@ public class Player
 
     private void CheckLevelUp()
     {
-        // Misalkan setiap level butuh 100 Exp
-        // Anda bisa buat formula lain
+        // Butuh 100 xp untuk naik level; Lvl max 10
         while (Exp >= 100 && Level < 10)
         {
             Exp -= 100;

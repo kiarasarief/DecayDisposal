@@ -13,8 +13,11 @@ public class StrongAttack : IPlayerStrategy
             damage *= 2;
             Console.WriteLine("Serangan Kuat Critical Hit!");
         }
+        else
+        {
+            Console.WriteLine("Serangan Kuat!");
+        }
 
-        enemy.Health -= damage;
-        Console.WriteLine($"Serangan Kuat! Musuh menerima {damage} damage.");
+        enemy.TakeDamage(damage);
     }
 }
