@@ -35,14 +35,14 @@ public class Enemy
 
 public class BossEnemy : Enemy
 {
-    public BossEnemy() : base(health: 1000, damage: 20)
+    public BossEnemy() : base(health: 300, damage: 20)
     {
     }
 
     public override void Attack(Player player)
     {
         // chance critical 25%
-        bool isCritical = rand.NextDouble() < 0.25;
+        bool isCritical = rand.NextDouble() < 0.1;
         int finalDamage = isCritical ? 50 : 20;
 
         Console.WriteLine(isCritical ? "Boss melakukan serangan critical!" : "Boss menyerang!");

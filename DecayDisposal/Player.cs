@@ -71,7 +71,7 @@ public class Player
     public void TakeDamage(int damage)
     {
         // 20% chance to block
-        if (rand.NextDouble() < 0.2)
+        if (rand.NextDouble() < 0.4)
         {
             Console.WriteLine("Player berhasil mem-block serangan!");
             damage = 0;

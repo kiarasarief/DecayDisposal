@@ -16,13 +16,13 @@ public class Potion
         switch (type)
         {
             case PotionType.Red:
-                HealAmount = 50;
+                HealAmount = 100;
                 break;
             case PotionType.Yellow:
-                HealAmount = 25;
+                HealAmount = 50;
                 break;
             case PotionType.Green:
-                HealAmount = 10;
+                HealAmount = 25;
                 break;
         }
     }
